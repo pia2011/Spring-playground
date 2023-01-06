@@ -1,0 +1,6 @@
+rootProject.name = 'playground'
+include 'spring-thymeleaf'
+include 'spring-db'
+include 'spring-jpa'
+include 'spring-core'
+
